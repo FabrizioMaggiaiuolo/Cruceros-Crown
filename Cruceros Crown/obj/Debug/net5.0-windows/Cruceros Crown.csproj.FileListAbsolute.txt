@@ -1,0 +1,30 @@
+C:\Users\fa_mg\source\repos\Cruceros Crown\Cruceros Crown\obj\Debug\net5.0-windows\Cruceros Crown.csproj.AssemblyReference.cache
+C:\Users\fa_mg\source\repos\Cruceros Crown\Cruceros Crown\obj\Debug\net5.0-windows\Cruceros Crown.csproj.GenerateResource.cache
+C:\Users\fa_mg\source\repos\Cruceros Crown\Cruceros Crown\obj\Debug\net5.0-windows\Cruceros Crown.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fa_mg\source\repos\Cruceros Crown\Cruceros Crown\obj\Debug\net5.0-windows\Cruceros Crown.AssemblyInfoInputs.cache
+C:\Users\fa_mg\source\repos\Cruceros Crown\Cruceros Crown\obj\Debug\net5.0-windows\Cruceros Crown.AssemblyInfo.cs
+C:\Users\fa_mg\source\repos\Cruceros Crown\Cruceros Crown\obj\Debug\net5.0-windows\Cruceros Crown.csproj.CoreCompileInputs.cache
+C:\Users\fa_mg\source\repos\Cruceros Crown\Cruceros Crown\bin\Debug\net5.0-windows\Cruceros Crown.exe
+C:\Users\fa_mg\source\repos\Cruceros Crown\Cruceros Crown\bin\Debug\net5.0-windows\Cruceros Crown.deps.json
+C:\Users\fa_mg\source\repos\Cruceros Crown\Cruceros Crown\bin\Debug\net5.0-windows\Cruceros Crown.runtimeconfig.json
+C:\Users\fa_mg\source\repos\Cruceros Crown\Cruceros Crown\bin\Debug\net5.0-windows\Cruceros Crown.runtimeconfig.dev.json
+C:\Users\fa_mg\source\repos\Cruceros Crown\Cruceros Crown\bin\Debug\net5.0-windows\Cruceros Crown.dll
+C:\Users\fa_mg\source\repos\Cruceros Crown\Cruceros Crown\bin\Debug\net5.0-windows\ref\Cruceros Crown.dll
+C:\Users\fa_mg\source\repos\Cruceros Crown\Cruceros Crown\bin\Debug\net5.0-windows\Cruceros Crown.pdb
+C:\Users\fa_mg\source\repos\Cruceros Crown\Cruceros Crown\obj\Debug\net5.0-windows\Cruceros_Crown.FrmInicio.resources
+C:\Users\fa_mg\source\repos\Cruceros Crown\Cruceros Crown\obj\Debug\net5.0-windows\Cruceros_Crown.FrmMenu.resources
+C:\Users\fa_mg\source\repos\Cruceros Crown\Cruceros Crown\obj\Debug\net5.0-windows\Cruceros Crown.dll
+C:\Users\fa_mg\source\repos\Cruceros Crown\Cruceros Crown\obj\Debug\net5.0-windows\ref\Cruceros Crown.dll
+C:\Users\fa_mg\source\repos\Cruceros Crown\Cruceros Crown\obj\Debug\net5.0-windows\Cruceros Crown.pdb
+C:\Users\fa_mg\source\repos\Cruceros Crown\Cruceros Crown\obj\Debug\net5.0-windows\Cruceros Crown.genruntimeconfig.cache
+C:\Users\fa_mg\source\repos\Cruceros Crown\Cruceros Crown\obj\Debug\net5.0-windows\Cruceros_Crown.FrmAgregarViaje.resources
+C:\Users\fa_mg\source\repos\Cruceros Crown\Cruceros Crown\obj\Debug\net5.0-windows\Cruceros_Crown.FrmViajes.resources
+C:\Users\fa_mg\source\repos\Cruceros Crown\Cruceros Crown\obj\Debug\net5.0-windows\Cruceros_Crown.FrmPasajeros.resources
+C:\Users\fa_mg\source\repos\Cruceros Crown\Cruceros Crown\obj\Debug\net5.0-windows\Cruceros_Crown.FrmVenderViaje.resources
+C:\Users\fa_mg\source\repos\Cruceros Crown\Cruceros Crown\obj\Debug\net5.0-windows\Cruceros_Crown.FrmVenderPasajero.resources
+C:\Users\fa_mg\source\repos\Cruceros Crown\Cruceros Crown\obj\Debug\net5.0-windows\Cruceros_Crown.FrmHistorial.resources
+C:\Users\fa_mg\source\repos\Cruceros Crown\Cruceros Crown\obj\Debug\net5.0-windows\Cruceros_Crown.FrmBase.resources
+C:\Users\fa_mg\source\repos\Cruceros Crown\Cruceros Crown\obj\Debug\net5.0-windows\Cruceros_Crown.Properties.Resources.resources
+C:\Users\fa_mg\source\repos\Cruceros Crown\Cruceros Crown\bin\Debug\net5.0-windows\Cruceros Crown Libreria.dll
+C:\Users\fa_mg\source\repos\Cruceros Crown\Cruceros Crown\bin\Debug\net5.0-windows\Cruceros Crown Libreria.pdb
+C:\Users\fa_mg\source\repos\Cruceros Crown\Cruceros Crown\obj\Debug\net5.0-windows\Cruceros Crown.csproj.CopyComplete

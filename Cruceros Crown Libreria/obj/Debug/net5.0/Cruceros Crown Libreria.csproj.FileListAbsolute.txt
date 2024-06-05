@@ -1,0 +1,12 @@
+C:\Users\fa_mg\source\repos\Cruceros Crown\Cruceros Crown Libreria\obj\Debug\net5.0\Cruceros Crown Libreria.csproj.AssemblyReference.cache
+C:\Users\fa_mg\source\repos\Cruceros Crown\Cruceros Crown Libreria\obj\Debug\net5.0\Cruceros Crown Libreria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fa_mg\source\repos\Cruceros Crown\Cruceros Crown Libreria\obj\Debug\net5.0\Cruceros Crown Libreria.AssemblyInfoInputs.cache
+C:\Users\fa_mg\source\repos\Cruceros Crown\Cruceros Crown Libreria\obj\Debug\net5.0\Cruceros Crown Libreria.AssemblyInfo.cs
+C:\Users\fa_mg\source\repos\Cruceros Crown\Cruceros Crown Libreria\obj\Debug\net5.0\Cruceros Crown Libreria.csproj.CoreCompileInputs.cache
+C:\Users\fa_mg\source\repos\Cruceros Crown\Cruceros Crown Libreria\bin\Debug\net5.0\Cruceros Crown Libreria.deps.json
+C:\Users\fa_mg\source\repos\Cruceros Crown\Cruceros Crown Libreria\bin\Debug\net5.0\Cruceros Crown Libreria.dll
+C:\Users\fa_mg\source\repos\Cruceros Crown\Cruceros Crown Libreria\bin\Debug\net5.0\ref\Cruceros Crown Libreria.dll
+C:\Users\fa_mg\source\repos\Cruceros Crown\Cruceros Crown Libreria\bin\Debug\net5.0\Cruceros Crown Libreria.pdb
+C:\Users\fa_mg\source\repos\Cruceros Crown\Cruceros Crown Libreria\obj\Debug\net5.0\Cruceros Crown Libreria.dll
+C:\Users\fa_mg\source\repos\Cruceros Crown\Cruceros Crown Libreria\obj\Debug\net5.0\ref\Cruceros Crown Libreria.dll
+C:\Users\fa_mg\source\repos\Cruceros Crown\Cruceros Crown Libreria\obj\Debug\net5.0\Cruceros Crown Libreria.pdb

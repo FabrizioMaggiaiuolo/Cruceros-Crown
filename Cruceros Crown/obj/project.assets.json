@@ -1,0 +1,100 @@
+{
+  "version": 3,
+  "targets": {
+    "net5.0-windows7.0": {
+      "Cruceros Crown Libreria/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/Cruceros Crown Libreria.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Cruceros Crown Libreria.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Cruceros Crown Libreria/1.0.0": {
+      "type": "project",
+      "path": "../Cruceros Crown Libreria/Cruceros Crown Libreria.csproj",
+      "msbuildProject": "../Cruceros Crown Libreria/Cruceros Crown Libreria.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net5.0-windows7.0": [
+      "Cruceros Crown Libreria >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\fa_mg\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\fa_mg\\Desktop\\utn\\0-archivado\\2° Cuatrimestre\\5-Prog y labo\\Proyectos\\Cruceros Crown\\Cruceros Crown\\Cruceros Crown.csproj",
+      "projectName": "Cruceros Crown",
+      "projectPath": "C:\\Users\\fa_mg\\Desktop\\utn\\0-archivado\\2° Cuatrimestre\\5-Prog y labo\\Proyectos\\Cruceros Crown\\Cruceros Crown\\Cruceros Crown.csproj",
+      "packagesPath": "C:\\Users\\fa_mg\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\fa_mg\\Desktop\\utn\\0-archivado\\2° Cuatrimestre\\5-Prog y labo\\Proyectos\\Cruceros Crown\\Cruceros Crown\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\fa_mg\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net5.0-windows"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {},
+        "https://packagesource": {}
+      },
+      "frameworks": {
+        "net5.0-windows7.0": {
+          "targetAlias": "net5.0-windows",
+          "projectReferences": {
+            "C:\\Users\\fa_mg\\Desktop\\utn\\0-archivado\\2° Cuatrimestre\\5-Prog y labo\\Proyectos\\Cruceros Crown\\Cruceros Crown Libreria\\Cruceros Crown Libreria.csproj": {
+              "projectPath": "C:\\Users\\fa_mg\\Desktop\\utn\\0-archivado\\2° Cuatrimestre\\5-Prog y labo\\Proyectos\\Cruceros Crown\\Cruceros Crown Libreria\\Cruceros Crown Libreria.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      }
+    },
+    "frameworks": {
+      "net5.0-windows7.0": {
+        "targetAlias": "net5.0-windows",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          },
+          "Microsoft.WindowsDesktop.App.WindowsForms": {
+            "privateAssets": "none"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.201\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

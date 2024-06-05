@@ -1,0 +1,52 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\fa_mg\\Desktop\\utn\\0-archivado\\2\u00B0 Cuatrimestre\\5-Prog y labo\\Proyectos\\Cruceros Crown\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AB0EB198-7B76-47D1-A293-0E5529204AE0}|Cruceros Crown\\Cruceros Crown.csproj|c:\\users\\fa_mg\\desktop\\utn\\0-archivado\\2\u00B0 cuatrimestre\\5-prog y labo\\proyectos\\cruceros crown\\cruceros crown\\frmmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AB0EB198-7B76-47D1-A293-0E5529204AE0}|Cruceros Crown\\Cruceros Crown.csproj|solutionrelative:cruceros crown\\frmmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB0EB198-7B76-47D1-A293-0E5529204AE0}|Cruceros Crown\\Cruceros Crown.csproj|c:\\users\\fa_mg\\desktop\\utn\\0-archivado\\2\u00B0 cuatrimestre\\5-prog y labo\\proyectos\\cruceros crown\\cruceros crown\\frminicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AB0EB198-7B76-47D1-A293-0E5529204AE0}|Cruceros Crown\\Cruceros Crown.csproj|solutionrelative:cruceros crown\\frminicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FrmMenu.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\fa_mg\\Desktop\\utn\\0-archivado\\2\u00B0 Cuatrimestre\\5-Prog y labo\\Proyectos\\Cruceros Crown\\Cruceros Crown\\FrmMenu.cs",
+              "RelativeDocumentMoniker": "Cruceros Crown\\FrmMenu.cs",
+              "ToolTip": "C:\\Users\\fa_mg\\Desktop\\utn\\0-archivado\\2\u00B0 Cuatrimestre\\5-Prog y labo\\Proyectos\\Cruceros Crown\\Cruceros Crown\\FrmMenu.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Cruceros Crown\\FrmMenu.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T04:04:36.034Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FrmInicio.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\fa_mg\\Desktop\\utn\\0-archivado\\2\u00B0 Cuatrimestre\\5-Prog y labo\\Proyectos\\Cruceros Crown\\Cruceros Crown\\FrmInicio.cs",
+              "RelativeDocumentMoniker": "Cruceros Crown\\FrmInicio.cs",
+              "ToolTip": "C:\\Users\\fa_mg\\Desktop\\utn\\0-archivado\\2\u00B0 Cuatrimestre\\5-Prog y labo\\Proyectos\\Cruceros Crown\\Cruceros Crown\\FrmInicio.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Cruceros Crown\\FrmInicio.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T04:04:26.023Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
